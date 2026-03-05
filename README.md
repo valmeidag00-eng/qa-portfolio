@@ -9,6 +9,6 @@ Actualmente reforzando mis habilidades en testing manual, SQL y pruebas de API.
 ## Proyecto 1: Pruebas de regresión de Urban Routes
 Archivo incluido:
 - Verónica Almeida, grupo QA 62 - 1.er sprint
-- Ejecuta los casos de prueba y pon un estado apropiado para cada uno.
-- Crea los informes de errores para las pruebas no aprobadas.
+- Ejecutar los casos de prueba.
+- Crear los informes de errores para las pruebas no aprobadas.
 
