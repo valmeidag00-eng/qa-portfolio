@@ -7,7 +7,8 @@ Actualmente reforzando mis habilidades en testing manual, SQL y pruebas de API.
 
 
 ## Proyecto 1: Pruebas de regresión de Urban Routes
-Archivo incluido: Pruebas de regresión.xls
+Archivo: Pruebas de regresión.xlsx
+Descripción:
 - Ejecutar los casos de prueba.
 - Crear los informes de errores para las pruebas no aprobadas.
 
