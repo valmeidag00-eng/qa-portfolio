@@ -1,5 +1,5 @@
 # qa-portfolio
-# QA Testing Portfolio – Vero Almeida
+# QA Testing Portfolio – Verónica Almeida Gómez
 
 Ingeniera de Sistemas con experiencia en Control de Calidad de Software.
 
