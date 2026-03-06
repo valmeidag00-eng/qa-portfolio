@@ -24,4 +24,12 @@ Archivo: 3 Pruebas de aplicaciones web.xlsx
 
 Descripción:
 - Prepara los casos de prueba para la función de reserva de automóviles.
-  
+
+## Proyecto 4: Diseño de pruebas para probar aplicaciones web
+Archivo: 4 Diseño de pruebas de los kits y los servicios de entrega.xlsx
+
+Descripción:
+- Analizar dos requisitos: "Trabajar con los kits" y "Trabajar con los servicios de entrega".
+- Diseñar casos de prueba para probar las características.
+- Ejecutar los casos de prueba a través de Postman.
+- Crear informes de errores en Jira.
