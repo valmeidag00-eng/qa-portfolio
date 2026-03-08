@@ -17,7 +17,7 @@ Actualmente fortaleciendo mis habilidades en pruebas manuales, diseño de casos 
 - Resolución de problemas
 - Capacidad de aprendizaje 
 
-# Proyectos
+# Proyectos:
 ## Proyecto 1 Diseño de checklists básicos para apps web simples (UI, validación de campos, flujo de usuario)
 - Objetivo: Entender los fundamentos de calidad de software y QA.
 - Actividades principales:
