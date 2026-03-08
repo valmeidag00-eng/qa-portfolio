@@ -20,13 +20,13 @@ Actualmente fortaleciendo mis habilidades en pruebas manuales, diseño de casos 
 # Proyectos
 ## Proyecto 1 Diseño de checklists básicos para apps web simples (UI, validación de campos, flujo de usuario)
 - Objetivo: Entender los fundamentos de calidad de software y QA.
-- Actividades principales:
-- Conceptos básicos: ¿Qué es QA? Diferencia entre QA y QC.
-- Tipos de pruebas: funcionales, no funcionales, smoke, regression, exploratorias.
-- Ciclo de vida del software y metodologías (Waterfall vs Agile/Scrum).
-- Introducción a bugs: severidad y prioridad.
+  - Actividades principales:
+  - Conceptos básicos: ¿Qué es QA? Diferencia entre QA y QC.
+  - Tipos de pruebas: funcionales, no funcionales, smoke, regression, exploratorias.
+  - Ciclo de vida del software y metodologías (Waterfall vs Agile/Scrum).
+  - Introducción a bugs: severidad y prioridad.
 
-Logros: Creación de checklists y primeros reportes de defects.
+- Logros: Creación de checklists y primeros reportes de defects.
 
 ## Proyecto 2: Diseño de pruebas para calcular el precio y la duración de compartir un automóvil de Urban Routes
 Archivo: 2 Diseño de pruebas.xlsx
