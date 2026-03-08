@@ -1,22 +1,3 @@
-# QA Testing Portfolio – Verónica Almeida Gómez
-
-
-# Acerca de mí
-Ingeniera de Sistemas con Magíster en Gerencia de Tecnologías de la Información con años de experiencia en control de calidad de software en banca.
-Actualmente fortaleciendo mis habilidades en pruebas manuales, diseño de casos de prueba, reporte de defectos en Jira y pruebas de API con Postman  en el Bootcamp QA Engineer de TripleTen.
-
-# Habilidades Tecnológicas
-- Pruebas Funcionales y de Regression
-- Pruebas de APIs usando Postman
-- Gestión de Pruebas con JIRA
-- Diseño de Casos de Prueba y Documentación de Defectos
-- Metodologías Ágiles
-
-# Competencias:
-- Trabajo en equipo
-- Resolución de problemas
-- Capacidad de aprendizaje 
-
 # Proyectos:
 ## Proyecto 1 Diseño de checklists básicos para apps web simples (UI, validación de campos, flujo de usuario)
 - Objetivo: Entender los fundamentos de calidad de software y QA.
