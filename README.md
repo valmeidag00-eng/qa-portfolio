@@ -1,5 +1,5 @@
 # QA Testing Portfolio – Verónica Almeida Gómez
-<img src="foto.jpg" width="200">
+
 
 # Acerca de mí
 Ingeniera de Sistemas con Magíster en Gerencia de Tecnologías de la Información con años de experiencia en control de calidad de software en banca.
@@ -18,12 +18,15 @@ Actualmente fortaleciendo mis habilidades en pruebas manuales, diseño de casos 
 - Capacidad de aprendizaje 
 
 # Proyectos
-## Proyecto 1: Pruebas de regresión de Urban Routes
-Archivo: 1 Pruebas de regresión.xlsx
+## Proyecto 1 Diseño de checklists básicos para apps web simples (UI, validación de campos, flujo de usuario)
+- Objetivo: Entender los fundamentos de calidad de software y QA.
+- Actividades principales:
+- Conceptos básicos: ¿Qué es QA? Diferencia entre QA y QC.
+- Tipos de pruebas: funcionales, no funcionales, smoke, regression, exploratorias.
+- Ciclo de vida del software y metodologías (Waterfall vs Agile/Scrum).
+- Introducción a bugs: severidad y prioridad.
 
-Descripción:
-- Ejecutar los casos de prueba.
-- Crear los informes de errores para las pruebas no aprobadas.
+Logros: Creación de checklists y primeros reportes de defects.
 
 ## Proyecto 2: Diseño de pruebas para calcular el precio y la duración de compartir un automóvil de Urban Routes
 Archivo: 2 Diseño de pruebas.xlsx
